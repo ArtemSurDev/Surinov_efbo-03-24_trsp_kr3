@@ -1,0 +1,6 @@
+cd task_6_3
+cat > .gitignore << 'EOF'
+.env
+__pycache__/
+*.pyc
+EOF
