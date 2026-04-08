@@ -1,0 +1,4 @@
+cd task_8_2
+echo "*.db" > .gitignore
+echo "__pycache__/" >> .gitignore
+echo "*.pyc" >> .gitignore
